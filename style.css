@@ -48,3 +48,53 @@ h2{
   color: hsl(212, 21%, 14%);
   font-family: "Fraunces", serif;
   font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0;
+}
+.cart{
+    border-radius: 8px;
+    margin-top: 5px;
+    padding:0.5rem;
+    box-sizing: content-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:hsl(158, 36%, 37%);
+    color:black;
+}
+.cart:hover{
+    background-color:hsl(158, 42%, 18%);
+    color:hsl(0, 0%, 100%);
+    text-transform: capitalize;
+}
+.price{
+    display:flex;
+    justify-content:space-between;
+} 
+.one{
+    font-size: 25px;
+    display: flex;
+    text-align: left;
+    align-items:flex-start;
+    color:hsl(158, 36%, 37%);
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "SOFT" 0;
+}
+.two{
+    color:hsl(228, 12%, 48%);
+    text-decoration: line-through;
+    text-align: left; 
+    align-items: flex-end;
+    font-size: small;
+    display: flex;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.image-desktop {
+  border-radius: 12px 0px 0px 12px;
