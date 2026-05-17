@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Snehasikder/Social-Link-Profile)
-- Live Site URL: [Live Site](https://snehasikder.github.io/Social-Link-Profile/)
+- Solution URL: [Solution](https://github.com/Snehasikder/Product-Preview-Cart-Component)
+- Live Site URL: [Live Site](https://snehasikder.github.io/Product-Preview-Cart-Component/)
 
 
 
